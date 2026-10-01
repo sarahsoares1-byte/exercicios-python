@@ -19,44 +19,44 @@ Abra o arquivo .py no Visual Studio Code e execute pelo botão Run ou pelo termi
 
 python ex01.py
 
-Exercícios
+## Exercícios
 
 ### Parte 1 — Variáveis, entrada e saída
 
-* ex01.py
-* ex02.py
-* ex03.py
-* ex04.py
-* ex05.py
+* 01.py — Exibe o nome e a idade.
+* 02.py — Calcula a soma de dois números.
+* 03.py — Calcula a área de um círculo.
+* 04.py — Converte temperatura de Celsius para Fahrenheit.
+* 05.py — Calcula o valor total de uma compra.
 
 ### Parte 2 — Condicionais
 
-* ex06.py
-* ex07.py
-* ex08.py
-* ex09.py
-* ex10.py
+* 06.py — Verifica se um número é par ou ímpar.
+* 07.py — Compara dois números e informa o maior.
+* 08.py — Verifica se um número é positivo, negativo ou zero.
+* 09.py — Classifica a média de um estudante.
+* 10.py — Verifica se a pessoa já pode votar pela idade.
 
 ### Parte 3 — Repetição com while
 
-* ex11.py
-* ex12.py
-* ex13.py
-* ex14.py
-* ex15.py
+* 11.py — Exibe os números de 1 a 10.
+* 12.py — Soma números até que seja digitado 0.
+* 13.py — Solicita uma senha até que esteja correta.
+* 14.py — Exibe a tabuada de um número.
+* 15.py — Conta quantos números positivos foram digitados.
 
 ### Parte 4 — Repetição com for
 
-* ex16.py
-* ex17.py
-* ex18.py
-* ex19.py
-* ex20.py
+* 16.py — Exibe os números de 1 a 20.
+* 17.py — Exibe os números pares de 2 a 20.
+* 18.py — Calcula a soma dos números de 1 a 100.
+* 19.py — Calcula o fatorial de um número.
+* 20.py — Faz uma contagem regressiva de 10 até 1.
 
 ### Parte 5 — Listas
 
-* ex21.py
-* ex22.py
-* ex23.py
-* ex24.py
-* ex25.py
+* 21.py — Cria uma lista com cinco números.
+* 22.py — Calcula a soma dos itens da lista.
+* 23.py — Encontra o maior valor da lista.
+* 24.py — Conta os itens maiores que 10.
+* 25.py — Exibe os itens na ordem inversa.
